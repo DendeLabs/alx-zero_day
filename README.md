@@ -1,1 +1,1 @@
-Performing Git operations through terminal.
+Performing Git operations through terminal
