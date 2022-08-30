@@ -1,1 +1,1 @@
-My first readme
+Performing Git operations through terminal.
